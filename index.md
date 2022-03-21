@@ -12,8 +12,7 @@ The intention behind these meetups is to share knowledge about tools that can he
 - 30.05.22 - TBD
 
 ### Slack channel
-We have a slack channel where we will post information about upcoming meetups. The link to the slack channel is
-https://join.slack.com/share/enQtMzI2NTI4MTg1MjA2OS05ZjU2MGY2ZDQxNjIyZWI3MmEzYmEyYjNmYTA3OWQ5ZTk0ZDE3YTg1MmM4YTM0ZTUxY2RlMzEzMjhhMWM0NGI3
+We have a slack channel where we will post information about upcoming meetups. Click [here](https://join.slack.com/share/enQtMzI2NTI4MTg1MjA2OS05ZjU2MGY2ZDQxNjIyZWI3MmEzYmEyYjNmYTA3OWQ5ZTk0ZDE3YTg1MmM4YTM0ZTUxY2RlMzEzMjhhMWM0NGI3) to access the slack channel.
 
 In this slack channel we also encourage people to share tools or ticks and tricks that they find useful.
 
@@ -22,8 +21,8 @@ The meetings will be held in Nordmarka every seconds Monday at 10.00. There will
 
 
 ### Google calendar
-To get notified by the upcoming tools meetups you can subscribe to the calendar by clicking the following link:
-https://calendar.google.com/calendar/u/0?cid=Y18zZGxxY2xobXR1YnNhZzJjZWZpZDE4ZGtoa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+To get notified by the upcoming tools meetups you can [subscribe to the calendar](https://calendar.google.com/calendar/u/0?cid=Y18zZGxxY2xobXR1YnNhZzJjZWZpZDE4ZGtoa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t):
+
 
 
 ### GitHub repository
