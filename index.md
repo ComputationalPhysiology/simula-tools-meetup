@@ -21,12 +21,14 @@ The meetings will be held in Nordmarka every seconds Monday at 10.00. There will
 
 
 ### Google calendar
-To get notified by the upcoming tools meetups you can [subscribe to the calendar](https://calendar.google.com/calendar/u/0?cid=Y18zZGxxY2xobXR1YnNhZzJjZWZpZDE4ZGtoa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t):
-
+To get notified by the upcoming tools meetups you can [subscribe to the calendar](https://calendar.google.com/calendar/u/0?cid=Y18zZGxxY2xobXR1YnNhZzJjZWZpZDE4ZGtoa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 
 ### GitHub repository
 We have a [GitHub repository](https://github.com/ComputationalPhysiology/simula-tools-meetup) where we will share some of the content from the 
+
+### Topics
+If you have a suggestions for a topic or you want to present and don't know what to present, please check out [this list of topics](https://docs.google.com/document/d/15fqrNuHeYFecW7twnYcQ4VT3M6laLyEF5VLlqpztncI/edit?pli=1#heading=h.ea9bs85zqop).
 
 ### Previous Meetups
 Below you will find a list of previous meetings (and if accessible link to some material)
