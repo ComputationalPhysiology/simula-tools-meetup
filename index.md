@@ -1,6 +1,6 @@
 ## Simula Tools Meetup
 
-The Simula Tools Meetup is a biweekly meeting organized at the Simula Research Laborayory, where one person will present a tool or a software project that he or she finds useful. 
+The Simula Tools Meetup is a bi-weekly meeting organized at the Simula Research Laboratory, where one person will present a tool or a software project that he or she finds useful. 
 The intention behind these meetups is to share knowledge about tools that can help you in your daily work. 
 
 ### Upcoming meetings
@@ -12,26 +12,25 @@ The intention behind these meetups is to share knowledge about tools that can he
 - 30.05.22 - TBD
 
 ### Slack channel
-We have a slack channel where we will post information about upcoming meetups. Click [here](https://join.slack.com/share/enQtMzI2NTI4MTg1MjA2OS05ZjU2MGY2ZDQxNjIyZWI3MmEzYmEyYjNmYTA3OWQ5ZTk0ZDE3YTg1MmM4YTM0ZTUxY2RlMzEzMjhhMWM0NGI3) to access the slack channel.
+We have a slack channel where we will post information about upcoming meetups. Click [here](https://join.slack.com/share/enQtMzI2NTI4MTg1MjA2OS05ZjU2MGY2ZDQxNjIyZWI3MmEzYmEyYjNmYTA3OWQ5ZTk0ZDE3YTg1MmM4YTM0ZTUxY2RlMzEzMjhhMWM0NGI3) to access the slack channel. Note that you need to be part of the Simula Workspace at Slack in order to access this channel.
 
 In this slack channel we also encourage people to share tools or ticks and tricks that they find useful.
 
 ### When and where
-The meetings will be held in Nordmarka every seconds Monday at 10.00. There will also be a link to a zoom meeting that you can use if you want to join remotely. Link to the zoom meeting can be found in the Slack channel.
+The meetings will be held in Nordmarka at KA23 every seconds Monday at 10.00. There will also be a link to a zoom meeting that you can use if you want to join remotely. Link to the zoom meeting can be found in the Slack channel.
 
 
 ### Google calendar
-To get notified by the upcoming tools meetups you can [subscribe to the calendar](https://calendar.google.com/calendar/u/0?cid=Y18zZGxxY2xobXR1YnNhZzJjZWZpZDE4ZGtoa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-
+To get notified of the upcoming tools meetups you can [subscribe to the calendar](https://calendar.google.com/calendar/u/0?cid=Y18zZGxxY2xobXR1YnNhZzJjZWZpZDE4ZGtoa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ### GitHub repository
-We have a [GitHub repository](https://github.com/ComputationalPhysiology/simula-tools-meetup) where we will share some of the content from the 
+We have a [GitHub repository](https://github.com/ComputationalPhysiology/simula-tools-meetup) where we will share some of the content from the meetings.
 
 ### Topics
-If you have a suggestions for a topic or you want to present and don't know what to present, please check out [this list of topics](https://docs.google.com/document/d/15fqrNuHeYFecW7twnYcQ4VT3M6laLyEF5VLlqpztncI/edit?pli=1#heading=h.ea9bs85zqop).
+If you have a suggestions for a topic or if you want to present and don't know what to present, please check out [this list of topics](https://docs.google.com/document/d/15fqrNuHeYFecW7twnYcQ4VT3M6laLyEF5VLlqpztncI/edit?pli=1#heading=h.ea9bs85zqop).
 
 ### Previous Meetups
-Below you will find a list of previous meetings (and if accessible link to some material)
+Below you will find a list of previous meetings (and if in some cases link to the corresponding material)
 
 - [07.03.22 - Miro: Julia](https://github.com/MiroK/julia-tools-meetup)
 - 21.02.22 - Johannes: Profiling in python
