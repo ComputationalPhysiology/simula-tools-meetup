@@ -5,7 +5,6 @@ The intention behind these meetups is to share knowledge about tools that can he
 
 ### Upcoming meetings
 
-- 21.03.22 - Min : IPython
 - 04.04.22 - TBD
 - 02.05.22 - TBD
 - 16.05.22 - TBD
@@ -32,12 +31,13 @@ If you have a suggestions for a topic or if you want to present and don't know w
 ### Previous Meetups
 Below you will find a list of previous meetings (and if in some cases link to the corresponding material)
 
+- 21.03.22 - Min : IPython
 - [07.03.22 - Miro: Julia](https://github.com/MiroK/julia-tools-meetup)
 - 21.02.22 - Johannes: Profiling in python
 - [07.02.22 - Henrik: Streamlit](https://github.com/finsberg/streamlit-demo)
 - 31.01.22 - Aizaz: hvPlot
 - [10.01.22 - Henrik: GitHub Pages](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-01-10-github-pages)
-- 20.12.21 - Angie: `itertools`
+- [20.12.21 - Angie: `itertools`](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2021-12-20-itertools)
 - [06.23.21 - Henrik: GitHub Actions](https://github.com/finsberg/2021-12-06-github-actions)
 - [24.11.21 - Henrik: `pytest`](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2021-11-24-pytest)
 - [08.11.21 - Startup meeting](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2021-11-08-startup)
