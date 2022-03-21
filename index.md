@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## Simula Tools Meetup
 
-You can use the [editor on GitHub](https://github.com/ComputationalPhysiology/simula-tools-meetup/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Simula Tools Meetup is a biweekly meeting organized at the Simula Research Laborayory, where one person will present a tool or a software project that he or she finds useful. 
+The intention behind these meetups is to share knowledge about tools that can help you in your daily work. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Upcoming meetings
 
-### Markdown
+- 21.03.22 - Min : IPython
+- 04.04.22 - TBD
+- 02.05.22 - TBD
+- 16.05.22 - TBD
+- 30.05.22 - TBD
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Slack channel
+We have a slack channel where we will post information about upcoming meetups. The link to the slack channel is
+https://join.slack.com/share/enQtMzI2NTI4MTg1MjA2OS05ZjU2MGY2ZDQxNjIyZWI3MmEzYmEyYjNmYTA3OWQ5ZTk0ZDE3YTg1MmM4YTM0ZTUxY2RlMzEzMjhhMWM0NGI3
 
-```markdown
-Syntax highlighted code block
+In this slack channel we also encourage people to share tools or ticks and tricks that they find useful.
 
-# Header 1
-## Header 2
-### Header 3
+### When and where
+The meetings will be held in Nordmarka every seconds Monday at 10.00. There will also be a link to a zoom meeting that you can use if you want to join remotely. Link to the zoom meeting can be found in the Slack channel.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Google calendar
+To get notified by the upcoming tools meetups you can subscribe to the calendar by clicking the following link:
+https://calendar.google.com/calendar/u/0?cid=Y18zZGxxY2xobXR1YnNhZzJjZWZpZDE4ZGtoa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### GitHub repository
+We have a [GitHub repository](https://github.com/ComputationalPhysiology/simula-tools-meetup) where we will share some of the content from the 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Previous Meetups
+Below you will find a list of previous meetings (and if accessible link to some material)
 
-### Jekyll Themes
+- [07.03.22 - Miro: Julia](https://github.com/MiroK/julia-tools-meetup)
+- 21.02.22 - Johannes: Profiling in python
+- [07.02.22 - Henrik: Streamlit](https://github.com/finsberg/streamlit-demo)
+- 31.01.22 - Aizaz: hvPlot
+- [10.01.22 - Henrik: GitHub Pages](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-01-10-github-pages)
+- 20.12.21 - Angie: `itertools`
+- [06.23.21 - Henrik: GitHub Actions](https://github.com/finsberg/2021-12-06-github-actions)
+- [24.11.21 - Henrik: `pytest`](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2021-11-24-pytest)
+- [08.11.21 - Startup meeting](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2021-11-08-startup)
+- [03.12.20 - Plotly+Bokeh](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2020-03-12-plotly-bokeh)
+- [20.02.20 - githooks](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2020-02-20-githooks)
+- [03.05.19 - Simulation meta data handling](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2019-05-03-simulation-meta-data-handling)
+- [08.02.19 - Concurrency in python](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2019-02-08-concurrency)
+- [09.11.18 - Shell](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2018-11-09-shell)
+- [25.05.18 - Jupyter](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2018-05-25-jupyter)
+- [20.04.18 - Testing](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2018-04-20-tests)
+- [16.03.18 - Environments](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2018-03-16-environments)
+- [16.02.18 - Debugging](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2018-02-16-debugging)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ComputationalPhysiology/simula-tools-meetup/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+If you have any questions please contact [Henrik Finsberg](mailto:henriknf@simula.no)
