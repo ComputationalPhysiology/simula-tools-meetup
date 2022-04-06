@@ -5,7 +5,6 @@ The intention behind these meetups is to share knowledge about tools that can he
 
 ### Upcoming meetings
 
-- 04.04.22 - TBD
 - 02.05.22 - TBD
 - 16.05.22 - TBD
 - 30.05.22 - TBD
@@ -31,7 +30,8 @@ If you have a suggestions for a topic or if you want to present and don't know w
 ### Previous Meetups
 Below you will find a list of previous meetings (and if in some cases link to the corresponding material)
 
-- 21.03.22 - Min : IPython
+- [04.04.22 - Min: Terraform](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-04-04-terraform)
+- [21.03.22 - Min: IPython](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-03-21-ipython)
 - [07.03.22 - Miro: Julia](https://github.com/MiroK/julia-tools-meetup)
 - 21.02.22 - Johannes: Profiling in python
 - [07.02.22 - Henrik: Streamlit](https://github.com/finsberg/streamlit-demo)
