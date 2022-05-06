@@ -5,8 +5,7 @@ The intention behind these meetups is to share knowledge about tools that can he
 
 ### Upcoming meetings
 
-- 25.04.22 - Henrik Finsberg: Type annotations in python
-- 09.05.22 - TBD
+- 09.05.22 - Åshild: Paraview
 - 23.05.22 - TBD
 
 ### Slack channel
@@ -30,6 +29,7 @@ If you have a suggestions for a topic or if you want to present and don't know w
 ### Previous Meetups
 Below you will find a list of previous meetings (and if in some cases link to the corresponding material)
 
+- [25.04.22 - Henrik Finsberg: Type annotations in python](https://github.com/ComputationalPhysiology/simula-tools-meetup/blob/master/2022-05-02-typing/2022-05-02-typing.md)
 - [04.04.22 - Min: Terraform](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-04-04-terraform)
 - [21.03.22 - Min: IPython](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-03-21-ipython)
 - [07.03.22 - Miro: Julia](https://github.com/MiroK/julia-tools-meetup)
