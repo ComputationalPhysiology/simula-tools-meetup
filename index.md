@@ -5,7 +5,11 @@ The intention behind these meetups is to share knowledge about tools that can he
 
 ### Upcoming meetings
 
-- 20.06.22 - TBD
+- 05.09.22 - Min: Reproducible environments
+- 19.09.22 - TBD
+- 03.10.22 - TBD
+- 17.10.22 - TBD
+
 
 ### Slack channel
 We have a slack channel where we will post information about upcoming meetups. Click [here](https://join.slack.com/share/enQtMzI2NTI4MTg1MjA2OS05ZjU2MGY2ZDQxNjIyZWI3MmEzYmEyYjNmYTA3OWQ5ZTk0ZDE3YTg1MmM4YTM0ZTUxY2RlMzEzMjhhMWM0NGI3) to access the slack channel. Note that you need to be part of the Simula Workspace at Slack in order to access this channel.
