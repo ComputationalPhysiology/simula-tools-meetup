@@ -5,7 +5,6 @@ The intention behind these meetups is to share knowledge about tools that can he
 
 ### Upcoming meetings
 
-- 05.09.22 - Min: Reproducible environments
 - 19.09.22 - TBD
 - 03.10.22 - TBD
 - 17.10.22 - TBD
@@ -32,6 +31,7 @@ If you have a suggestions for a topic or if you want to present and don't know w
 ### Previous Meetups
 Below you will find a list of previous meetings (and if in some cases link to the corresponding material)
 
+- [05.09.22 - Min: Reproducible environments](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-09-05-reproducible-envs)
 - 09.05.22 - Åshild: Paraview
 - [25.04.22 - Henrik Finsberg: Type annotations in python](https://github.com/ComputationalPhysiology/simula-tools-meetup/blob/master/2022-05-02-typing/2022-05-02-typing.md)
 - [04.04.22 - Min: Terraform](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-04-04-terraform)
