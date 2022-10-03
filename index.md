@@ -5,9 +5,11 @@ The intention behind these meetups is to share knowledge about tools that can he
 
 ### Upcoming meetings
 
-- 19.09.22 - TBD
-- 03.10.22 - TBD
-- 17.10.22 - TBD
+- 17.10.22 - Jørgen: Reproducibility
+- 31.10.22 - Marius: Snakemake
+- 14.11.22 - TBD
+- 28.11.22 - TBD
+- 12.12.22 - TBD
 
 
 ### Slack channel
@@ -31,6 +33,8 @@ If you have a suggestions for a topic or if you want to present and don't know w
 ### Previous Meetups
 Below you will find a list of previous meetings (and if in some cases link to the corresponding material)
 
+- 03.10.22 - No specific topic
+- [19.09.22 - Jørgen: Docker](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-09-19-docker)
 - [05.09.22 - Min: Reproducible environments](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-09-05-reproducible-envs)
 - 09.05.22 - Åshild: Paraview
 - [25.04.22 - Henrik Finsberg: Type annotations in python](https://github.com/ComputationalPhysiology/simula-tools-meetup/blob/master/2022-05-02-typing/2022-05-02-typing.md)
