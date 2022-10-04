@@ -7,7 +7,7 @@ The intention behind these meetups is to share knowledge about tools that can he
 
 - 17.10.22 - Jørgen: Reproducibility
 - 31.10.22 - Marius: Snakemake
-- 14.11.22 - TBD
+- 14.11.22 - Tore: ex3
 - 28.11.22 - TBD
 - 12.12.22 - TBD
 
