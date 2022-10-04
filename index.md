@@ -18,7 +18,7 @@ We have a slack channel where we will post information about upcoming meetups. C
 In this slack channel we also encourage people to share tools or ticks and tricks that they find useful.
 
 ### When and where
-The meetings will be held in Østmarka (room 292) at KA23 every second Monday at 10.00. There will also be a link to a zoom meeting that you can use if you want to join remotely. Link to the zoom meeting can be found in the calendar.
+The meetings will be held in Nordmarka at KA23 every second Monday at 10.00. There will also be a link to a zoom meeting that you can use if you want to join remotely. Link to the zoom meeting can be found in the calendar.
 
 
 ### Google calendar
