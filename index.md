@@ -36,8 +36,9 @@ Below you will find a list of previous meetings (and if in some cases link to th
 - 03.10.22 - No specific topic
 - [19.09.22 - Jørgen: Docker](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-09-19-docker)
 - [05.09.22 - Min: Reproducible environments](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-09-05-reproducible-envs)
+- [20.06.22 - Henrik: Uploading a package to PyPI](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-06-20-publish-pypi)
 - 09.05.22 - Åshild: Paraview
-- [25.04.22 - Henrik Finsberg: Type annotations in python](https://github.com/ComputationalPhysiology/simula-tools-meetup/blob/master/2022-05-02-typing/2022-05-02-typing.md)
+- [25.04.22 - Henrik: Type annotations in python](https://github.com/ComputationalPhysiology/simula-tools-meetup/blob/master/2022-05-02-typing/2022-05-02-typing.md)
 - [04.04.22 - Min: Terraform](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-04-04-terraform)
 - [21.03.22 - Min: IPython](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-03-21-ipython)
 - [07.03.22 - Miro: Julia](https://github.com/MiroK/julia-tools-meetup)
