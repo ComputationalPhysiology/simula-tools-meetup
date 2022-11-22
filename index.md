@@ -5,10 +5,7 @@ The intention behind these meetups is to share knowledge about tools that can he
 
 ### Upcoming meetings
 
-- 17.10.22 - Jørgen: Reproducibility
-- 31.10.22 - Marius: Snakemake
-- 14.11.22 - Tore: ex3
-- 28.11.22 - TBD
+- 28.11.22 - Henrik: Reproducible paper with FEniCS code
 - 12.12.22 - TBD
 
 
@@ -33,6 +30,9 @@ If you have a suggestions for a topic or if you want to present and don't know w
 ### Previous Meetups
 Below you will find a list of previous meetings (and if in some cases link to the corresponding material)
 
+- [14.11.22 - Tore: ex3](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-11-21-ex3)
+- [31.10.22 - Marius: Snakemake](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-10-31-snakemake)
+- 17.10.22 - Jørgen: Reproducibility
 - 03.10.22 - No specific topic
 - [19.09.22 - Jørgen: Docker](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-09-19-docker)
 - [05.09.22 - Min: Reproducible environments](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-09-05-reproducible-envs)
