@@ -5,8 +5,19 @@ The intention behind these meetups is to share knowledge about tools that can he
 
 ### Upcoming meetings
 
-- 28.11.22 - Henrik: Reproducible paper with FEniCS code
-- 12.12.22 - TBD
+- 09.01.23 - Henrik: Startup meeting
+- 23.01.23 - TBD
+- 06.02.23 - TBD
+- 20.02.23 - Winter break
+- 06.03.23 - TBD
+- 20.03.23 - TBD
+- 03.04.23 - Easter break
+- 17.04.23 - TBD
+- 01.05.23 - Labor Day
+- 15.05.23 - TBD
+- 29.05.23 - Whit Monday
+- 12.06.23 - TBD
+- 26.06.23 - TBD
 
 
 ### Slack channel
@@ -30,6 +41,8 @@ If you have a suggestions for a topic or if you want to present and don't know w
 ### Previous Meetups
 Below you will find a list of previous meetings (and if in some cases link to the corresponding material)
 
+- [12.12.22 - Henrik: Solution of Advent of Code 2022 - Day 3 in Python and Rust](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-12-12-advent-of-code-day3)
+- 28.11.22 - Henrik: Reproducible paper with FEniCS code
 - [14.11.22 - Tore: ex3](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-11-21-ex3)
 - [31.10.22 - Marius: Snakemake](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-10-31-snakemake)
 - 17.10.22 - Jørgen: Reproducibility
