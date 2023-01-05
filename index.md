@@ -7,7 +7,7 @@ The intention behind these meetups is to share knowledge about tools that can he
 
 - 09.01.23 - Henrik: Startup meeting
 - 23.01.23 - TBD
-- 06.02.23 - TBD
+- 06.02.23 - Anders: [git-subrepo](https://github.com/ingydotnet/git-subrepo)
 - 20.02.23 - Winter break
 - 06.03.23 - TBD
 - 20.03.23 - TBD
