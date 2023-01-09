@@ -5,11 +5,10 @@ The intention behind these meetups is to share knowledge about tools that can he
 
 ### Upcoming meetings
 
-- 09.01.23 - Henrik: Startup meeting
-- 23.01.23 - TBD
+- 23.01.23 - Min: Conda
 - 06.02.23 - Anders: [git-subrepo](https://github.com/ingydotnet/git-subrepo)
 - 20.02.23 - Winter break
-- 06.03.23 - TBD
+- 06.03.23 - Thomas Roehr: [autoproj)(https://github.com/rock-core/autoproj)
 - 20.03.23 - TBD
 - 03.04.23 - Easter break
 - 17.04.23 - TBD
@@ -41,6 +40,7 @@ If you have a suggestions for a topic or if you want to present and don't know w
 ### Previous Meetups
 Below you will find a list of previous meetings (and if in some cases link to the corresponding material)
 
+- 09.01.23 - Henrik: Startup meeting and [making a coverage badge](https://nedbatchelder.com/blog/202209/making_a_coverage_badge.html)
 - [12.12.22 - Henrik: Solution of Advent of Code 2022 - Day 3 in Python and Rust](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-12-12-advent-of-code-day3)
 - 28.11.22 - Henrik: Reproducible paper with FEniCS code
 - [14.11.22 - Tore: ex3](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2022-11-21-ex3)
