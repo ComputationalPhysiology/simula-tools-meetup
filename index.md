@@ -6,10 +6,10 @@ The intention behind these meetups is to share knowledge about tools that can he
 ### Upcoming meetings
 
 - 23.01.23 - Min: Conda
-- 06.02.23 - Anders: [git-subrepo](https://github.com/ingydotnet/git-subrepo)
+- 06.02.23 - TBD
 - 20.02.23 - Winter break
 - 06.03.23 - Thomas Roehr: [autoproj](https://github.com/rock-core/autoproj)
-- 20.03.23 - TBD
+- 20.03.23 - Anders: [git-subrepo](https://github.com/ingydotnet/git-subrepo)
 - 03.04.23 - Easter break
 - 17.04.23 - TBD
 - 01.05.23 - Labor Day
