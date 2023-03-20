@@ -35,8 +35,8 @@ If you have a suggestions for a topic or if you want to present and don't know w
 ### Previous Meetups
 Below you will find a list of previous meetings (and if in some cases link to the corresponding material)
 
-- 06.03.23 - Thomas Roehr: [autoproj](https://github.com/rock-core/autoproj)
 - 20.03.23 - Anders: [git-subrepo](https://github.com/ingydotnet/git-subrepo)
+- 06.03.23 - Thomas Roehr: [autoproj](https://github.com/rock-core/autoproj)
 - 06.02.23 - Ingeborg,Henrik K and Marius: Paraview
 - [23.01.23 - Min: conda-build](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2023-01-23-conda-build)
 - 09.01.23 - Henrik: Startup meeting and [making a coverage badge](https://nedbatchelder.com/blog/202209/making_a_coverage_badge.html)
