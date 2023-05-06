@@ -5,12 +5,9 @@ The intention behind these meetups is to share knowledge about tools that can he
 
 ### Upcoming meetings
 
-- 03.04.23 - Easter break
-- 17.04.23 - Jørgen Dokken: [ipyparallel](https://ipyparallel.readthedocs.io/en/latest/)
-- 01.05.23 - Labor Day
-- 15.05.23 - Henrik Finsberg: Command line interfaces in python
+- 15.05.23 - Thorvald Ballestad: [Typer](https://typer.tiangolo.com)
 - 29.05.23 - Whit Monday
-- 12.06.23 - TBD
+- 12.06.23 - Henrik Finsberg: [Logging in python](https://docs.python.org/3/library/logging.html)
 - 26.06.23 - TBD
 
 
@@ -35,7 +32,8 @@ If you have a suggestions for a topic or if you want to present and don't know w
 ### Previous Meetups
 Below you will find a list of previous meetings (and if in some cases link to the corresponding material)
 
-- 20.03.23 - Anders: [git-subrepo](https://github.com/ingydotnet/git-subrepo)
+- 17.04.23 - Jørgen Dokken: [ipyparallel](https://github.com/jorgensd/ipyparallel-tools-meetup)
+- 20.03.23 - Anders Høst: [git-subrepo](https://github.com/ingydotnet/git-subrepo)
 - 06.03.23 - Thomas Roehr: [autoproj](https://github.com/rock-core/autoproj)
 - 06.02.23 - Ingeborg,Henrik K and Marius: Paraview
 - [23.01.23 - Min: conda-build](https://github.com/ComputationalPhysiology/simula-tools-meetup/tree/master/2023-01-23-conda-build)
