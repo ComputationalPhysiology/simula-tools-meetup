@@ -5,8 +5,6 @@ The intention behind these meetups is to share knowledge about tools that can he
 
 ### Upcoming meetings
 
-- 15.05.23 - Thorvald Ballestad: [Typer](https://typer.tiangolo.com)
-- 29.05.23 - Whit Monday
 - 12.06.23 - Henrik Finsberg: [Logging in python](https://docs.python.org/3/library/logging.html)
 - 26.06.23 - TBD
 
@@ -32,6 +30,7 @@ If you have a suggestions for a topic or if you want to present and don't know w
 ### Previous Meetups
 Below you will find a list of previous meetings (and if in some cases link to the corresponding material)
 
+- 15.05.23 - Thorvald Ballestad: [Typer](https://typer.tiangolo.com)
 - 17.04.23 - Jørgen Dokken: [ipyparallel](https://github.com/jorgensd/ipyparallel-tools-meetup)
 - 20.03.23 - Anders Høst: [git-subrepo](https://github.com/ingydotnet/git-subrepo)
 - 06.03.23 - Thomas Roehr: [autoproj](https://github.com/rock-core/autoproj)
