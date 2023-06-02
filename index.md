@@ -10,7 +10,7 @@ The intention behind these meetups is to share knowledge about tools that can he
 
 
 ### Slack channel
-We have a slack channel where we will post information about upcoming meetups. Click [here](https://join.slack.com/share/enQtMzI2NTI4MTg1MjA2OS05ZjU2MGY2ZDQxNjIyZWI3MmEzYmEyYjNmYTA3OWQ5ZTk0ZDE3YTg1MmM4YTM0ZTUxY2RlMzEzMjhhMWM0NGI3) to access the slack channel. Note that you need to be part of the Simula Workspace at Slack in order to access this channel.
+We have a slack channel where we will post information about upcoming meetups. Click [here](https://join.slack.com/share/enQtNTM2MTE0NTcxNDU0OS1lYjYyOWI3MTMyOWE1MDRlYTFkZDRmNTI4MTU3NTZlM2MyMzU4NGM3MDg2N2EyMWZmMWQ1MTY0ZjRkM2MxOGMz) to access the slack channel. Note that you need to be part of the Simula Workspace at Slack in order to access this channel.
 
 In this slack channel we also encourage people to share tools or ticks and tricks that they find useful.
 
