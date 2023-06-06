@@ -12,3 +12,10 @@ In this meetup we will cover how to do logging in Python.
 - Logging cookbook: https://docs.python.org/3/howto/logging-cookbook.html
 - API documentation: https://docs.python.org/3/library/logging.html
 
+## Other libraries
+There are also a large number of libraries for doing logging and which might be easier an more suitable for your use case. Here I list some of them
+
+- [`structlog`](https://www.structlog.org/en/stable/)
+- [`loguru`](https://github.com/Delgan/loguru)
+- [`daiquiri`](https://github.com/Mergifyio/daiquiri)
+- [`picologging`](https://github.com/microsoft/picologging)
