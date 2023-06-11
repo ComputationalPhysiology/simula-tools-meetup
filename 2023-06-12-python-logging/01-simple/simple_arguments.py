@@ -17,12 +17,21 @@ logger = logging.getLogger(__name__)
 def main():
     # printf style
     logger.info("What %s is it? %.5f", "time", time.time())
-    logger.info("Now with %(my_arg)s arguments!", {"my_arg": "named"})
+    logger.info(
+        "Now with %(number)d %(my_arg)s arguments!", {"my_arg": "named", "number": 2}
+    )
 
     # f-strings
     logger.info(f"What time is it? {time.time():.5f}")
+    my_arg = "named"
+    number = 2
+    logger.info(f"Now with {number} {my_arg} arguments!")
     # format strings
-    logger.info("Now with {my_arg} arguments!".format(**{"my_arg": "named"}))
+    logger.info(
+        "Now with {number:d} {my_arg} arguments!".format(
+            **{"my_arg": "named", "number": 2}
+        )
+    )
 
 
 if __name__ == "__main__":
