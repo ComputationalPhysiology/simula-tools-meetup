@@ -11,6 +11,7 @@ In this meetup we will cover how to do logging in Python.
 - Basic and advanced tutorial: https://docs.python.org/3/howto/logging.html
 - Logging cookbook: https://docs.python.org/3/howto/logging-cookbook.html
 - API documentation: https://docs.python.org/3/library/logging.html
+- PEP282: https://peps.python.org/pep-0282/
 
 ## Other libraries
 There are also a large number of libraries for doing logging and which might be easier an more suitable for your use case. Here I list some of them
