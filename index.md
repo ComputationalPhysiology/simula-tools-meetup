@@ -5,17 +5,23 @@ The intention behind these meetups is to share knowledge about tools that can he
 
 ### Upcoming meetings
 
-- 12.06.23 - Henrik Finsberg: [Logging in python](https://docs.python.org/3/library/logging.html)
-- 26.06.23 - TBD
+- 18.09.23 - Joachim: Property based testing
+- 02.10.23 - TBD
+- 16.10.23 - TBD
+- 30.10.23 - TBD
+- 13.11.23 - TBD
+- 27.11.23 - TBD
+- 02.10.23 - TBD
+- 11.12.23 - TBD
 
 
 ### Slack channel
-We have a slack channel where we will post information about upcoming meetups. Click [here](https://join.slack.com/share/enQtNTM2MTE0NTcxNDU0OS1lYjYyOWI3MTMyOWE1MDRlYTFkZDRmNTI4MTU3NTZlM2MyMzU4NGM3MDg2N2EyMWZmMWQ1MTY0ZjRkM2MxOGMz) to access the slack channel. Note that you need to be part of the Simula Workspace at Slack in order to access this channel.
+We have a slack channel where we will post information about upcoming meetups. Click [here](https://join.slack.com/share/enQtNTg5NTYxNTk0MjIyNi03OGVhNDNlNzY2ODc4ZDEyYTc5ZDQzNmVjZWY3M2RkYTk5MThlZjc4MGUwZWMwMWZmYTY1YzkyZmUzOTFlZDZi) to access the slack channel. Note that you need to be part of the Simula Workspace at Slack in order to access this channel.
 
 In this slack channel we also encourage people to share tools or ticks and tricks that they find useful.
 
 ### When and where
-The meetings will be held in Nordmarka at KA23 every second Monday at 10.00. There will also be a link to a zoom meeting that you can use if you want to join remotely. Link to the zoom meeting can be found in the calendar.
+The meetings will be held in Nordmarka at KA23 every second Monday at 11.00. There will also be a link to a zoom meeting that you can use if you want to join remotely. Link to the zoom meeting can be found in the calendar.
 
 
 ### Google calendar
@@ -30,6 +36,7 @@ If you have a suggestions for a topic or if you want to present and don't know w
 ### Previous Meetups
 Below you will find a list of previous meetings (and if in some cases link to the corresponding material)
 
+- 12.06.23 - Henrik Finsberg: [Logging in python](https://docs.python.org/3/library/logging.html)
 - 15.05.23 - Thorvald Ballestad: [Typer](https://typer.tiangolo.com)
 - 17.04.23 - Jørgen Dokken: [ipyparallel](https://github.com/jorgensd/ipyparallel-tools-meetup)
 - 20.03.23 - Anders Høst: [git-subrepo](https://github.com/ingydotnet/git-subrepo)
