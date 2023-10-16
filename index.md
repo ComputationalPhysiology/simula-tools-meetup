@@ -5,8 +5,6 @@ The intention behind these meetups is to share knowledge about tools that can he
 
 ### Upcoming meetings
 
-- 02.10.23 - TBD (maybe cancel due to høstferie)
-- 16.10.23 - Thomas: Running scripts and settings up your environment on ex3
 - 30.10.23 - Marius will find a dataset that we will try to visualize 
 - 13.11.23 - Henrik (and maybe others) will talk about open science
 - 27.11.23 - TBD
@@ -35,6 +33,7 @@ If you have a suggestions for a topic or if you want to present and don't know w
 ### Previous Meetups
 Below you will find a list of previous meetings (and if in some cases link to the corresponding material)
 
+- 16.10.23 - Thomas: Running scripts and settings up your environment on ex3: [Slides](https://github.com/ComputationalPhysiology/simula-tools-meetup/blob/main/2023-10-16-ex3/ex3-find-best-practices.pdf) [ex3 guide by James](https://github.com/ComputationalPhysiology/simula-tools-meetup/blob/main/2023-10-16-ex3/2022-03-16-guide_to_ex3_for_beginners.pdf)
 - [18.09.23 - Joachim: Property based testing](https://docs.google.com/presentation/d/1vVemYQsQOkCbKd_ziHgZmgLkRf3pIf90fYhs10i6Jpw/edit#slide=id.g27f30b0099c_0_32)
 - 12.06.23 - Henrik Finsberg: [Logging in python](https://docs.python.org/3/library/logging.html)
 - 15.05.23 - Thorvald Ballestad: [Typer](https://typer.tiangolo.com)
