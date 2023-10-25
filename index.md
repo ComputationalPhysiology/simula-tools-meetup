@@ -5,7 +5,7 @@ The intention behind these meetups is to share knowledge about tools that can he
 
 ### Upcoming meetings
 
-- 30.10.23 - Marius will find a dataset that we will try to visualize 
+- 30.10.23 - Open session
 - 13.11.23 - Henrik (and maybe others) will talk about open science
 - 27.11.23 - TBD
 - 02.10.23 - TBD
